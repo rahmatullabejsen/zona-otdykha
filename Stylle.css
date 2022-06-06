@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*Сурет 1*/
+.parallax_1{
+ background: url(Exotic-tropical-beach-sunse.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+ height: 100vh;
+
+ text-align: center;
+ color: white;
+ font-size: 30px;
+ padding: 30vh 0 70vh 0;
+}
+
+/*Сурет 2*/
+.parallax_2 {
+ background: url(53d189dfcd54fa9ecae756ddf5a7c2ee.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ height: 500px;
+ background-attachment: fixed;
+}
+
+/*суреттің астындағы жазулар 1*/
+.paragraph_1 {
+  text-align: center;
+  padding: 30px;
+}
+
+/*суреттің астындағы жазулар 2*/
+
+.paragraph_2 {
+  text-align: center;
+  padding: 30px;
+}
